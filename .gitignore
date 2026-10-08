@@ -1,0 +1,29 @@
+# 构建产物
+target/
+
+# macOS
+.DS_Store
+
+# Obsidian 本地工作区配置
+.obsidian/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# VS Code
+.vscode/
+
+# 本地派生索引与任务数据
+.codegraph/
+.trellis/
+
+# 日志
+*.log

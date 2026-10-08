@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: gm-crypto-suite
+
+gm:
+  keys:
+    dir: data/keys
+  signature:
+    timestamp-skew-seconds: 300
+
+logging:
+  level:
+    com.gmcrypto.suite: INFO
